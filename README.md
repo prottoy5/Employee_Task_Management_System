@@ -1,8 +1,13 @@
 # Employee_Task_Management_System
 This is employee task management system in laravel [Web-App_Final_Project].The Employee Management System is a comprehensive and user-friendly application designed to streamline and simplify the process of managing employees within an organization. This system provides an efficient and organized way to handle various employee-related tasks, from onboarding and attendance tracking to performance evaluation.
 
+##User Interface
+![Admin_Login_Page](https://github.com/user-attachments/assets/f9fea2fd-a62e-408c-9a5f-c8d84ec36eb4)
+
+
 # Usage
 Log in to access the admin dashboard.
+Check URL : http://127.0.0.1:8000/admin/login
 Email  : prottoyofficial2002@gmail.com
 Password : 12345678
 Email : abdussalamshanto2001@gmail.com
