@@ -21,7 +21,7 @@ This is employee task management system using laravel, php & mysql [Web-App_Fina
 
 ##User Interface
 ![Admin_Login_Page](https://github.com/user-attachments/assets/f9fea2fd-a62e-408c-9a5f-c8d84ec36eb4)
-![Dashboard](https://github.com/user-attachments/assets/295f7238-a6d4-47d8-8d8d-44826c004fe4)
+![Uploading Dashboard.png…]()
 ![Add_New_Employee](https://github.com/user-attachments/assets/732455cc-9365-4048-afb9-76cf3c40e3dd)
 ![Employee_List](https://github.com/user-attachments/assets/fec01951-25ad-47a4-b3a5-c634b55aa6e4)
 ![Task_Create](https://github.com/user-attachments/assets/d08471ff-a75d-4f0c-8bb7-7956b5accdb9)
