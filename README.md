@@ -1,4 +1,4 @@
-# Employee_Task_Management_System
+![Dashboard](https://github.com/user-attachments/assets/089036f1-0155-44d2-a7a7-2fed516b85f6)# Employee_Task_Management_System
 This is employee task management system using laravel, php & mysql [Web-App_Final_Project].The Employee Management System is a comprehensive and user-friendly application designed to streamline and simplify the process of managing employees within an organization. 
 
 # Key Features:
@@ -21,7 +21,7 @@ This is employee task management system using laravel, php & mysql [Web-App_Fina
 
 ##User Interface
 ![Admin_Login_Page](https://github.com/user-attachments/assets/f9fea2fd-a62e-408c-9a5f-c8d84ec36eb4)
-![Uploading Dashboard.png…]()
+![Dashboard](https://github.com/user-attachments/assets/97d3cebd-06f5-47cf-8333-3b7d538564c7)
 ![Add_New_Employee](https://github.com/user-attachments/assets/732455cc-9365-4048-afb9-76cf3c40e3dd)
 ![Employee_List](https://github.com/user-attachments/assets/fec01951-25ad-47a4-b3a5-c634b55aa6e4)
 ![Task_Create](https://github.com/user-attachments/assets/d08471ff-a75d-4f0c-8bb7-7956b5accdb9)
