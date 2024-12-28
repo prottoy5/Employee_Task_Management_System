@@ -168,14 +168,14 @@
                                                         </div>
                                                     </div>
                                                     <div class="widget-content-left flex2">
-                                                        <div class="widget-heading">John Doe</div>
-                                                        <div class="widget-subheading opacity-7">Web Developer
+                                                        <div class="widget-heading">Prottoy Chakroborty</div>
+                                                        <div class="widget-subheading opacity-7">Flutter Developer
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="text-center">Madrid</td>
+                                        <td class="text-center">Sylhet</td>
                                         <td class="text-center">
                                             <div class="badge badge-warning">Pending</div>
                                         </td>
@@ -196,14 +196,13 @@
                                                         </div>
                                                     </div>
                                                     <div class="widget-content-left flex2">
-                                                        <div class="widget-heading">Ruben Tillman</div>
-                                                        <div class="widget-subheading opacity-7">Etiam sit amet
-                                                            orci eget</div>
+                                                        <div class="widget-heading">Abdus Salam Shanto</div>
+                                                        <div class="widget-subheading opacity-7">Ui/Ux Designer</div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="text-center">Berlin</td>
+                                        <td class="text-center">Sylhet</td>
                                         <td class="text-center">
                                             <div class="badge badge-success">Completed</div>
                                         </td>
@@ -224,14 +223,13 @@
                                                         </div>
                                                     </div>
                                                     <div class="widget-content-left flex2">
-                                                        <div class="widget-heading">Elliot Huber</div>
-                                                        <div class="widget-subheading opacity-7">Lorem ipsum
-                                                            dolor sic</div>
+                                                        <div class="widget-heading">Arun Adittya</div>
+                                                        <div class="widget-subheading opacity-7">Web Developer</div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="text-center">London</td>
+                                        <td class="text-center">Rajshahi</td>
                                         <td class="text-center">
                                             <div class="badge badge-danger">In Progress</div>
                                         </td>
@@ -252,14 +250,14 @@
                                                         </div>
                                                     </div>
                                                     <div class="widget-content-left flex2">
-                                                        <div class="widget-heading">Vinnie Wagstaff</div>
-                                                        <div class="widget-subheading opacity-7">UI Designer
+                                                        <div class="widget-heading">Nafis Hasan Tonmoy</div>
+                                                        <div class="widget-subheading opacity-7">Software Engineer
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="text-center">Amsterdam</td>
+                                        <td class="text-center">Dhaka</td>
                                         <td class="text-center">
                                             <div class="badge badge-info">On Hold</div>
                                         </td>
